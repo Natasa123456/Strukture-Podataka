@@ -85,5 +85,5 @@ int ProcitajBrojRedakaIzDatoteke(  char* nazivDatoteke) {
 	}
 	fclose(datoteka);
 	return studenti;
-}
+}   //tralalalala
  */
